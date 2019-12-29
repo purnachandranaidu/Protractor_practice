@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1577652012452' stop='1577652313875'>
+    <name>Home Page verification</name>
+    <title>Home Page verification</title>
+    <test-cases>
+        <test-case start='1577652012453' status='passed' stop='1577652047435'>
+            <name>URL passing</name>
+            <title>URL passing</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='4c1b0503-e6e5-4e9e-b03b-4c44813b82b4-attachment.png' type='image/png' size='107475'/>
+            </attachments>
+        </test-case>
+        <test-case start='1577652047435' status='passed' stop='1577652313874'>
+            <name>List of cources</name>
+            <title>List of cources</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='4cc1963b-dda7-4087-b85d-a317f94337fd-attachment.png' type='image/png' size='93282'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

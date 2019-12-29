@@ -1,0 +1,60 @@
+{
+  "uid" : "206c94687453d9d9",
+  "name" : "List of cources",
+  "fullName" : "Home Page verification.List of cources",
+  "historyId" : "cdc9ab567f45b55c146cd1e6c16ea696",
+  "time" : {
+    "start" : 1577652047435,
+    "stop" : 1577652313874,
+    "duration" : 266439
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a7f3136edf7b737b",
+      "name" : "Screenshot",
+      "source" : "a7f3136edf7b737b.png",
+      "type" : "image/png",
+      "size" : 93282
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Home Page verification"
+  }, {
+    "name" : "testClass",
+    "value" : "Home Page verification"
+  }, {
+    "name" : "testMethod",
+    "value" : "List of cources"
+  }, {
+    "name" : "package",
+    "value" : "Home Page verification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "206c94687453d9d9.json",
+  "parameterValues" : [ ]
+}

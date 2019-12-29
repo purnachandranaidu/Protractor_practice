@@ -1,0 +1,41 @@
+{
+  "9d6213d349905f7a5b5bf37e95752ef0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "26211a57afc4fc2b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1577652555792,
+        "stop" : 1577652660615,
+        "duration" : 104823
+      }
+    } ]
+  },
+  "cdc9ab567f45b55c146cd1e6c16ea696" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5edad561d2078f61",
+      "status" : "failed",
+      "statusDetails" : "Failed: HomePage.jira is not a function",
+      "time" : {
+        "start" : 1577652660616,
+        "stop" : 1577652661229,
+        "duration" : 613
+      }
+    } ]
+  }
+}

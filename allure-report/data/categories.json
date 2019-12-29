@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Failed: HomePage.jira is not a function",
+      "children" : [ {
+        "name" : "List of cources",
+        "uid" : "5edad561d2078f61",
+        "parentUid" : "570ceb79bfbf154e6b524cc79a793c75",
+        "status" : "failed",
+        "time" : {
+          "start" : 1577652660616,
+          "stop" : 1577652661229,
+          "duration" : 613
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "570ceb79bfbf154e6b524cc79a793c75"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

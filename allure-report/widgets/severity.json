@@ -1,0 +1,21 @@
+[ {
+  "uid" : "5edad561d2078f61",
+  "name" : "List of cources",
+  "time" : {
+    "start" : 1577652660616,
+    "stop" : 1577652661229,
+    "duration" : 613
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "26211a57afc4fc2b",
+  "name" : "URL passing",
+  "time" : {
+    "start" : 1577652555792,
+    "stop" : 1577652660615,
+    "duration" : 104823
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

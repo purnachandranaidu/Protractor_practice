@@ -1,0 +1,35 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Home Page verification",
+    "children" : [ {
+      "name" : "URL passing",
+      "uid" : "26211a57afc4fc2b",
+      "parentUid" : "a41eaf5bb7c3f5d2551652f7947bd471",
+      "status" : "passed",
+      "time" : {
+        "start" : 1577652555792,
+        "stop" : 1577652660615,
+        "duration" : 104823
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "List of cources",
+      "uid" : "5edad561d2078f61",
+      "parentUid" : "a41eaf5bb7c3f5d2551652f7947bd471",
+      "status" : "failed",
+      "time" : {
+        "start" : 1577652660616,
+        "stop" : 1577652661229,
+        "duration" : 613
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a41eaf5bb7c3f5d2551652f7947bd471"
+  } ]
+}

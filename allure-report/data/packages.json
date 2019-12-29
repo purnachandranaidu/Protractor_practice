@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Home Page verification",
+    "children" : [ {
+      "name" : "URL passing",
+      "uid" : "26211a57afc4fc2b",
+      "parentUid" : "a7e6acbb798d38a2cae4c45e9d04f685",
+      "status" : "passed",
+      "time" : {
+        "start" : 1577652555792,
+        "stop" : 1577652660615,
+        "duration" : 104823
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "List of cources",
+      "uid" : "5edad561d2078f61",
+      "parentUid" : "a7e6acbb798d38a2cae4c45e9d04f685",
+      "status" : "failed",
+      "time" : {
+        "start" : 1577652660616,
+        "stop" : 1577652661229,
+        "duration" : 613
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a7e6acbb798d38a2cae4c45e9d04f685"
+  } ]
+}
